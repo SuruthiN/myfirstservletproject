@@ -2,7 +2,7 @@
 
 
 
-When the user filled the login page,the web.xml will give request to the servlet and then the user's data will be stored in the database temporarily.the login page screenshot is attached below.
+The index.jsp it provides three links for login, logout and profile.When the user filled the login page,the web.xml will give request to the servlet and then the user's data will be stored in the database temporarily.the login page screenshot is attached below.
 
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/116864585/204222100-17ebc125-6c0e-42fd-93a1-e05b77885512.png)
