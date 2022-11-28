@@ -11,6 +11,8 @@ When the user filled the login page,the web.xml will give request to the servlet
 
 The user's information are listed in the table, this is done by using the List concept.The screenshot is given below.
 
+
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/116864585/204223194-fbe1ef39-8b49-46b9-849a-2145e72d12b9.png)
 
 
